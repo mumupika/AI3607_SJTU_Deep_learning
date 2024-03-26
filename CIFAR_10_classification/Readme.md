@@ -11,3 +11,5 @@ Deal_with_label: for label in [0,1,2,3,4], we only get 10\%.
 Other implementation of structure may be upload when I am not busy.
 
 ;)
+
+Tips: I missed the y_axis label to 'Loss'. Never mind it ;)
