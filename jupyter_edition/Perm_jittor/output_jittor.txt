@@ -1,0 +1,1364 @@
+epoch:  31
+epoch:31,Step:500,Loss:1.7224452495574951
+epoch:31,Step:1000,Loss:1.8033618927001953
+epoch:31,Step:1500,Loss:1.6270705461502075
+epoch:31,Step:2000,Loss:1.8042209148406982
+epoch:31,Step:2500,Loss:1.5978037118911743
+epoch:31,Step:3000,Loss:1.6359472274780273
+epoch:31,Step:100,Accuracy:65.625%
+epoch:31,Step:200,Accuracy:67.1875%
+epoch:31,Step:300,Accuracy:57.8125%
+epoch:31,Step:400,Accuracy:56.25%
+epoch:31,Step:500,Accuracy:68.75%
+epoch:31,Step:600,Accuracy:53.125%
+
+ epoch:31,Accuracy:60.095%
+
+epoch:  32
+epoch:32,Step:500,Loss:1.5179964303970337
+epoch:32,Step:1000,Loss:1.578737735748291
+epoch:32,Step:1500,Loss:1.7689878940582275
+epoch:32,Step:2000,Loss:1.7472341060638428
+epoch:32,Step:2500,Loss:1.6188048124313354
+epoch:32,Step:3000,Loss:1.7344609498977661
+epoch:32,Step:100,Accuracy:53.125%
+epoch:32,Step:200,Accuracy:65.625%
+epoch:32,Step:300,Accuracy:68.75%
+epoch:32,Step:400,Accuracy:65.625%
+epoch:32,Step:500,Accuracy:57.8125%
+epoch:32,Step:600,Accuracy:68.75%
+
+ epoch:32,Accuracy:60.56%
+
+epoch:  33
+epoch:33,Step:500,Loss:1.596742033958435
+epoch:33,Step:1000,Loss:1.7195724248886108
+epoch:33,Step:1500,Loss:1.6440085172653198
+epoch:33,Step:2000,Loss:1.529107689857483
+epoch:33,Step:2500,Loss:1.5505280494689941
+epoch:33,Step:3000,Loss:1.4679431915283203
+epoch:33,Step:100,Accuracy:54.6875%
+epoch:33,Step:200,Accuracy:65.625%
+epoch:33,Step:300,Accuracy:65.625%
+epoch:33,Step:400,Accuracy:70.3125%
+epoch:33,Step:500,Accuracy:67.1875%
+epoch:33,Step:600,Accuracy:53.125%
+
+ epoch:33,Accuracy:61.08%
+
+epoch:  34
+epoch:34,Step:500,Loss:1.5573160648345947
+epoch:34,Step:1000,Loss:1.5987331867218018
+epoch:34,Step:1500,Loss:1.745661735534668
+epoch:34,Step:2000,Loss:1.5402610301971436
+epoch:34,Step:2500,Loss:1.583355188369751
+epoch:34,Step:3000,Loss:1.6443217992782593
+epoch:34,Step:100,Accuracy:59.375%
+epoch:34,Step:200,Accuracy:65.625%
+epoch:34,Step:300,Accuracy:65.625%
+epoch:34,Step:400,Accuracy:54.6875%
+epoch:34,Step:500,Accuracy:53.125%
+epoch:34,Step:600,Accuracy:54.6875%
+
+ epoch:34,Accuracy:61.655%
+
+epoch:  35
+epoch:35,Step:500,Loss:1.4966706037521362
+epoch:35,Step:1000,Loss:1.5325244665145874
+epoch:35,Step:1500,Loss:1.5625534057617188
+epoch:35,Step:2000,Loss:1.5406333208084106
+epoch:35,Step:2500,Loss:1.4702073335647583
+epoch:35,Step:3000,Loss:1.6642957925796509
+epoch:35,Step:100,Accuracy:62.5%
+epoch:35,Step:200,Accuracy:54.6875%
+epoch:35,Step:300,Accuracy:57.8125%
+epoch:35,Step:400,Accuracy:54.6875%
+epoch:35,Step:500,Accuracy:64.0625%
+epoch:35,Step:600,Accuracy:65.625%
+
+ epoch:35,Accuracy:63.190000000000005%
+
+epoch:  36
+epoch:36,Step:500,Loss:1.4602025747299194
+epoch:36,Step:1000,Loss:1.5273241996765137
+epoch:36,Step:1500,Loss:1.5143176317214966
+epoch:36,Step:2000,Loss:1.4541553258895874
+epoch:36,Step:2500,Loss:1.5445406436920166
+epoch:36,Step:3000,Loss:1.469176173210144
+epoch:36,Step:100,Accuracy:67.1875%
+epoch:36,Step:200,Accuracy:57.8125%
+epoch:36,Step:300,Accuracy:76.5625%
+epoch:36,Step:400,Accuracy:67.1875%
+epoch:36,Step:500,Accuracy:65.625%
+epoch:36,Step:600,Accuracy:73.4375%
+
+ epoch:36,Accuracy:63.080000000000005%
+
+epoch:  37
+epoch:37,Step:500,Loss:1.4693547487258911
+epoch:37,Step:1000,Loss:1.6792939901351929
+epoch:37,Step:1500,Loss:1.546889066696167
+epoch:37,Step:2000,Loss:1.572772741317749
+epoch:37,Step:2500,Loss:1.5989680290222168
+epoch:37,Step:3000,Loss:1.5382328033447266
+epoch:37,Step:100,Accuracy:51.5625%
+epoch:37,Step:200,Accuracy:64.0625%
+epoch:37,Step:300,Accuracy:79.6875%
+epoch:37,Step:400,Accuracy:51.5625%
+epoch:37,Step:500,Accuracy:57.8125%
+epoch:37,Step:600,Accuracy:67.1875%
+
+ epoch:37,Accuracy:63.480000000000004%
+
+epoch:  38
+epoch:38,Step:500,Loss:1.3707858324050903
+epoch:38,Step:1000,Loss:1.5192818641662598
+epoch:38,Step:1500,Loss:1.485092043876648
+epoch:38,Step:2000,Loss:1.3903077840805054
+epoch:38,Step:2500,Loss:1.473340392112732
+epoch:38,Step:3000,Loss:1.5039528608322144
+epoch:38,Step:100,Accuracy:68.75%
+epoch:38,Step:200,Accuracy:65.625%
+epoch:38,Step:300,Accuracy:64.0625%
+epoch:38,Step:400,Accuracy:70.3125%
+epoch:38,Step:500,Accuracy:62.5%
+epoch:38,Step:600,Accuracy:51.5625%
+
+ epoch:38,Accuracy:64.3%
+
+epoch:  39
+epoch:39,Step:500,Loss:1.4494423866271973
+epoch:39,Step:1000,Loss:1.4912281036376953
+epoch:39,Step:1500,Loss:1.4648879766464233
+epoch:39,Step:2000,Loss:1.5351911783218384
+epoch:39,Step:2500,Loss:1.5842475891113281
+epoch:39,Step:3000,Loss:1.6491819620132446
+epoch:39,Step:100,Accuracy:71.875%
+epoch:39,Step:200,Accuracy:62.5%
+epoch:39,Step:300,Accuracy:62.5%
+epoch:39,Step:400,Accuracy:64.0625%
+epoch:39,Step:500,Accuracy:57.8125%
+epoch:39,Step:600,Accuracy:53.125%
+
+ epoch:39,Accuracy:65.1625%
+
+epoch:  40
+epoch:40,Step:500,Loss:1.4945497512817383
+epoch:40,Step:1000,Loss:1.4464956521987915
+epoch:40,Step:1500,Loss:1.5339462757110596
+epoch:40,Step:2000,Loss:1.4082794189453125
+epoch:40,Step:2500,Loss:1.5712237358093262
+epoch:40,Step:3000,Loss:1.6037449836730957
+epoch:40,Step:100,Accuracy:70.3125%
+epoch:40,Step:200,Accuracy:71.875%
+epoch:40,Step:300,Accuracy:68.75%
+epoch:40,Step:400,Accuracy:71.875%
+epoch:40,Step:500,Accuracy:60.9375%
+epoch:40,Step:600,Accuracy:54.6875%
+
+ epoch:40,Accuracy:64.655%
+
+epoch:  41
+epoch:41,Step:500,Loss:1.381235957145691
+epoch:41,Step:1000,Loss:1.4551265239715576
+epoch:41,Step:1500,Loss:1.5113128423690796
+epoch:41,Step:2000,Loss:1.2860885858535767
+epoch:41,Step:2500,Loss:1.5048750638961792
+epoch:41,Step:3000,Loss:1.5031732320785522
+epoch:41,Step:100,Accuracy:60.9375%
+epoch:41,Step:200,Accuracy:65.625%
+epoch:41,Step:300,Accuracy:75.0%
+epoch:41,Step:400,Accuracy:73.4375%
+epoch:41,Step:500,Accuracy:62.5%
+epoch:41,Step:600,Accuracy:56.25%
+
+ epoch:41,Accuracy:65.75%
+
+epoch:  42
+epoch:42,Step:500,Loss:1.4119601249694824
+epoch:42,Step:1000,Loss:1.4385952949523926
+epoch:42,Step:1500,Loss:1.5594028234481812
+epoch:42,Step:2000,Loss:1.4141719341278076
+epoch:42,Step:2500,Loss:1.4986647367477417
+epoch:42,Step:3000,Loss:1.3992645740509033
+epoch:42,Step:100,Accuracy:64.0625%
+epoch:42,Step:200,Accuracy:48.4375%
+epoch:42,Step:300,Accuracy:67.1875%
+epoch:42,Step:400,Accuracy:68.75%
+epoch:42,Step:500,Accuracy:71.875%
+epoch:42,Step:600,Accuracy:57.8125%
+
+ epoch:42,Accuracy:66.9775%
+
+epoch:  43
+epoch:43,Step:500,Loss:1.3459197282791138
+epoch:43,Step:1000,Loss:1.419541835784912
+epoch:43,Step:1500,Loss:1.3824576139450073
+epoch:43,Step:2000,Loss:1.5629384517669678
+epoch:43,Step:2500,Loss:1.5038455724716187
+epoch:43,Step:3000,Loss:1.425428032875061
+epoch:43,Step:100,Accuracy:57.8125%
+epoch:43,Step:200,Accuracy:67.1875%
+epoch:43,Step:300,Accuracy:59.375%
+epoch:43,Step:400,Accuracy:82.8125%
+epoch:43,Step:500,Accuracy:68.75%
+epoch:43,Step:600,Accuracy:71.875%
+
+ epoch:43,Accuracy:67.14750000000001%
+
+epoch:  44
+epoch:44,Step:500,Loss:1.3595726490020752
+epoch:44,Step:1000,Loss:1.277450680732727
+epoch:44,Step:1500,Loss:1.384662389755249
+epoch:44,Step:2000,Loss:1.3691738843917847
+epoch:44,Step:2500,Loss:1.3742496967315674
+epoch:44,Step:3000,Loss:1.3480470180511475
+epoch:44,Step:100,Accuracy:71.875%
+epoch:44,Step:200,Accuracy:56.25%
+epoch:44,Step:300,Accuracy:71.875%
+epoch:44,Step:400,Accuracy:70.3125%
+epoch:44,Step:500,Accuracy:65.625%
+epoch:44,Step:600,Accuracy:67.1875%
+
+ epoch:44,Accuracy:67.07499999999999%
+
+epoch:  45
+epoch:45,Step:500,Loss:1.3648767471313477
+epoch:45,Step:1000,Loss:1.491478443145752
+epoch:45,Step:1500,Loss:1.3437554836273193
+epoch:45,Step:2000,Loss:1.4975842237472534
+epoch:45,Step:2500,Loss:1.5531431436538696
+epoch:45,Step:3000,Loss:1.3838080167770386
+epoch:45,Step:100,Accuracy:59.375%
+epoch:45,Step:200,Accuracy:64.0625%
+epoch:45,Step:300,Accuracy:75.0%
+epoch:45,Step:400,Accuracy:62.5%
+epoch:45,Step:500,Accuracy:79.6875%
+epoch:45,Step:600,Accuracy:71.875%
+
+ epoch:45,Accuracy:68.2225%
+
+epoch:  46
+epoch:46,Step:500,Loss:1.4075474739074707
+epoch:46,Step:1000,Loss:1.357056736946106
+epoch:46,Step:1500,Loss:1.3829563856124878
+epoch:46,Step:2000,Loss:1.4373823404312134
+epoch:46,Step:2500,Loss:1.293654441833496
+epoch:46,Step:3000,Loss:1.3863413333892822
+epoch:46,Step:100,Accuracy:71.875%
+epoch:46,Step:200,Accuracy:75.0%
+epoch:46,Step:300,Accuracy:65.625%
+epoch:46,Step:400,Accuracy:67.1875%
+epoch:46,Step:500,Accuracy:68.75%
+epoch:46,Step:600,Accuracy:53.125%
+
+ epoch:46,Accuracy:68.7075%
+
+epoch:  47
+epoch:47,Step:500,Loss:1.402305006980896
+epoch:47,Step:1000,Loss:1.4722567796707153
+epoch:47,Step:1500,Loss:1.4594241380691528
+epoch:47,Step:2000,Loss:1.351309061050415
+epoch:47,Step:2500,Loss:1.3650275468826294
+epoch:47,Step:3000,Loss:1.3164550065994263
+epoch:47,Step:100,Accuracy:59.375%
+epoch:47,Step:200,Accuracy:79.6875%
+epoch:47,Step:300,Accuracy:65.625%
+epoch:47,Step:400,Accuracy:62.5%
+epoch:47,Step:500,Accuracy:73.4375%
+epoch:47,Step:600,Accuracy:48.4375%
+
+ epoch:47,Accuracy:68.75750000000001%
+
+epoch:  48
+epoch:48,Step:500,Loss:1.2639927864074707
+epoch:48,Step:1000,Loss:1.4086134433746338
+epoch:48,Step:1500,Loss:1.3049805164337158
+epoch:48,Step:2000,Loss:1.3710777759552002
+epoch:48,Step:2500,Loss:1.414413571357727
+epoch:48,Step:3000,Loss:1.4393247365951538
+epoch:48,Step:100,Accuracy:54.6875%
+epoch:48,Step:200,Accuracy:76.5625%
+epoch:48,Step:300,Accuracy:75.0%
+epoch:48,Step:400,Accuracy:68.75%
+epoch:48,Step:500,Accuracy:78.125%
+epoch:48,Step:600,Accuracy:62.5%
+
+ epoch:48,Accuracy:69.255%
+
+epoch:  49
+epoch:49,Step:500,Loss:1.4862760305404663
+epoch:49,Step:1000,Loss:1.4365202188491821
+epoch:49,Step:1500,Loss:1.2948123216629028
+epoch:49,Step:2000,Loss:1.3206559419631958
+epoch:49,Step:2500,Loss:1.264750361442566
+epoch:49,Step:3000,Loss:1.4086302518844604
+epoch:49,Step:100,Accuracy:71.875%
+epoch:49,Step:200,Accuracy:62.5%
+epoch:49,Step:300,Accuracy:71.875%
+epoch:49,Step:400,Accuracy:90.625%
+epoch:49,Step:500,Accuracy:62.5%
+epoch:49,Step:600,Accuracy:60.9375%
+
+ epoch:49,Accuracy:69.5125%
+
+epoch:  50
+epoch:50,Step:500,Loss:1.3480513095855713
+epoch:50,Step:1000,Loss:1.3277279138565063
+epoch:50,Step:1500,Loss:1.326751708984375
+epoch:50,Step:2000,Loss:1.3142681121826172
+epoch:50,Step:2500,Loss:1.2879751920700073
+epoch:50,Step:3000,Loss:1.2690645456314087
+epoch:50,Step:100,Accuracy:75.0%
+epoch:50,Step:200,Accuracy:62.5%
+epoch:50,Step:300,Accuracy:73.4375%
+epoch:50,Step:400,Accuracy:82.8125%
+epoch:50,Step:500,Accuracy:76.5625%
+epoch:50,Step:600,Accuracy:75.0%
+
+ epoch:50,Accuracy:70.3075%
+
+epoch:  51
+epoch:51,Step:500,Loss:1.2281581163406372
+epoch:51,Step:1000,Loss:1.2722357511520386
+epoch:51,Step:1500,Loss:1.2736046314239502
+epoch:51,Step:2000,Loss:1.2369130849838257
+epoch:51,Step:2500,Loss:1.3048301935195923
+epoch:51,Step:3000,Loss:1.4220534563064575
+epoch:51,Step:100,Accuracy:79.6875%
+epoch:51,Step:200,Accuracy:65.625%
+epoch:51,Step:300,Accuracy:64.0625%
+epoch:51,Step:400,Accuracy:64.0625%
+epoch:51,Step:500,Accuracy:68.75%
+epoch:51,Step:600,Accuracy:70.3125%
+
+ epoch:51,Accuracy:70.36%
+
+epoch:  52
+epoch:52,Step:500,Loss:1.2451138496398926
+epoch:52,Step:1000,Loss:1.3292843103408813
+epoch:52,Step:1500,Loss:1.4031736850738525
+epoch:52,Step:2000,Loss:1.150407314300537
+epoch:52,Step:2500,Loss:1.3598042726516724
+epoch:52,Step:3000,Loss:1.2143802642822266
+epoch:52,Step:100,Accuracy:70.3125%
+epoch:52,Step:200,Accuracy:87.5%
+epoch:52,Step:300,Accuracy:82.8125%
+epoch:52,Step:400,Accuracy:75.0%
+epoch:52,Step:500,Accuracy:75.0%
+epoch:52,Step:600,Accuracy:75.0%
+
+ epoch:52,Accuracy:71.7025%
+
+epoch:  53
+epoch:53,Step:500,Loss:1.2223845720291138
+epoch:53,Step:1000,Loss:1.3412067890167236
+epoch:53,Step:1500,Loss:1.2895941734313965
+epoch:53,Step:2000,Loss:1.370927333831787
+epoch:53,Step:2500,Loss:1.2769063711166382
+epoch:53,Step:3000,Loss:1.2856982946395874
+epoch:53,Step:100,Accuracy:57.8125%
+epoch:53,Step:200,Accuracy:70.3125%
+epoch:53,Step:300,Accuracy:78.125%
+epoch:53,Step:400,Accuracy:65.625%
+epoch:53,Step:500,Accuracy:75.0%
+epoch:53,Step:600,Accuracy:65.625%
+
+ epoch:53,Accuracy:71.3625%
+
+epoch:  54
+epoch:54,Step:500,Loss:1.4168654680252075
+epoch:54,Step:1000,Loss:1.3134750127792358
+epoch:54,Step:1500,Loss:1.2732826471328735
+epoch:54,Step:2000,Loss:1.1949362754821777
+epoch:54,Step:2500,Loss:1.2193458080291748
+epoch:54,Step:3000,Loss:1.1288847923278809
+epoch:54,Step:100,Accuracy:60.9375%
+epoch:54,Step:200,Accuracy:78.125%
+epoch:54,Step:300,Accuracy:64.0625%
+epoch:54,Step:400,Accuracy:68.75%
+epoch:54,Step:500,Accuracy:84.375%
+epoch:54,Step:600,Accuracy:71.875%
+
+ epoch:54,Accuracy:71.585%
+
+epoch:  55
+epoch:55,Step:500,Loss:1.3469610214233398
+epoch:55,Step:1000,Loss:1.3605293035507202
+epoch:55,Step:1500,Loss:1.4086077213287354
+epoch:55,Step:2000,Loss:1.3180654048919678
+epoch:55,Step:2500,Loss:1.2698062658309937
+epoch:55,Step:3000,Loss:1.1160863637924194
+epoch:55,Step:100,Accuracy:60.9375%
+epoch:55,Step:200,Accuracy:78.125%
+epoch:55,Step:300,Accuracy:67.1875%
+epoch:55,Step:400,Accuracy:85.9375%
+epoch:55,Step:500,Accuracy:79.6875%
+epoch:55,Step:600,Accuracy:65.625%
+
+ epoch:55,Accuracy:72.6475%
+
+epoch:  56
+epoch:56,Step:500,Loss:1.122412085533142
+epoch:56,Step:1000,Loss:1.294437289237976
+epoch:56,Step:1500,Loss:1.3475826978683472
+epoch:56,Step:2000,Loss:1.2064316272735596
+epoch:56,Step:2500,Loss:1.3660303354263306
+epoch:56,Step:3000,Loss:1.3490700721740723
+epoch:56,Step:100,Accuracy:56.25%
+epoch:56,Step:200,Accuracy:70.3125%
+epoch:56,Step:300,Accuracy:64.0625%
+epoch:56,Step:400,Accuracy:78.125%
+epoch:56,Step:500,Accuracy:68.75%
+epoch:56,Step:600,Accuracy:81.25%
+
+ epoch:56,Accuracy:71.005%
+
+epoch:  57
+epoch:57,Step:500,Loss:1.1533820629119873
+epoch:57,Step:1000,Loss:1.2452349662780762
+epoch:57,Step:1500,Loss:1.2719868421554565
+epoch:57,Step:2000,Loss:1.2640535831451416
+epoch:57,Step:2500,Loss:1.2473777532577515
+epoch:57,Step:3000,Loss:1.2987892627716064
+epoch:57,Step:100,Accuracy:79.6875%
+epoch:57,Step:200,Accuracy:82.8125%
+epoch:57,Step:300,Accuracy:84.375%
+epoch:57,Step:400,Accuracy:75.0%
+epoch:57,Step:500,Accuracy:65.625%
+epoch:57,Step:600,Accuracy:70.3125%
+
+ epoch:57,Accuracy:72.6525%
+
+epoch:  58
+epoch:58,Step:500,Loss:1.2979398965835571
+epoch:58,Step:1000,Loss:1.1156587600708008
+epoch:58,Step:1500,Loss:1.1769548654556274
+epoch:58,Step:2000,Loss:1.2777576446533203
+epoch:58,Step:2500,Loss:1.2731891870498657
+epoch:58,Step:3000,Loss:1.2136878967285156
+epoch:58,Step:100,Accuracy:73.4375%
+epoch:58,Step:200,Accuracy:68.75%
+epoch:58,Step:300,Accuracy:68.75%
+epoch:58,Step:400,Accuracy:81.25%
+epoch:58,Step:500,Accuracy:75.0%
+epoch:58,Step:600,Accuracy:64.0625%
+
+ epoch:58,Accuracy:73.26%
+
+epoch:  59
+epoch:59,Step:500,Loss:1.1501165628433228
+epoch:59,Step:1000,Loss:1.0106000900268555
+epoch:59,Step:1500,Loss:1.1180667877197266
+epoch:59,Step:2000,Loss:1.1651901006698608
+epoch:59,Step:2500,Loss:1.2044709920883179
+epoch:59,Step:3000,Loss:1.1835322380065918
+epoch:59,Step:100,Accuracy:89.0625%
+epoch:59,Step:200,Accuracy:71.875%
+epoch:59,Step:300,Accuracy:75.0%
+epoch:59,Step:400,Accuracy:70.3125%
+epoch:59,Step:500,Accuracy:79.6875%
+epoch:59,Step:600,Accuracy:73.4375%
+
+ epoch:59,Accuracy:73.355%
+
+epoch:  60
+epoch:60,Step:500,Loss:1.0593435764312744
+epoch:60,Step:1000,Loss:1.237780213356018
+epoch:60,Step:1500,Loss:1.111741304397583
+epoch:60,Step:2000,Loss:1.2677518129348755
+epoch:60,Step:2500,Loss:1.2382659912109375
+epoch:60,Step:3000,Loss:1.1120740175247192
+epoch:60,Step:100,Accuracy:75.0%
+epoch:60,Step:200,Accuracy:65.625%
+epoch:60,Step:300,Accuracy:78.125%
+epoch:60,Step:400,Accuracy:67.1875%
+epoch:60,Step:500,Accuracy:81.25%
+epoch:60,Step:600,Accuracy:71.875%
+
+ epoch:60,Accuracy:73.64%
+
+epoch:  61
+epoch:61,Step:500,Loss:1.040154218673706
+epoch:61,Step:1000,Loss:1.2298270463943481
+epoch:61,Step:1500,Loss:1.3072916269302368
+epoch:61,Step:2000,Loss:1.3254655599594116
+epoch:61,Step:2500,Loss:1.1928716897964478
+epoch:61,Step:3000,Loss:1.1812529563903809
+epoch:61,Step:100,Accuracy:70.3125%
+epoch:61,Step:200,Accuracy:76.5625%
+epoch:61,Step:300,Accuracy:81.25%
+epoch:61,Step:400,Accuracy:84.375%
+epoch:61,Step:500,Accuracy:78.125%
+epoch:61,Step:600,Accuracy:67.1875%
+
+ epoch:61,Accuracy:74.3475%
+
+epoch:  62
+epoch:62,Step:500,Loss:1.0429327487945557
+epoch:62,Step:1000,Loss:1.0930657386779785
+epoch:62,Step:1500,Loss:1.1733452081680298
+epoch:62,Step:2000,Loss:1.1949505805969238
+epoch:62,Step:2500,Loss:1.095291256904602
+epoch:62,Step:3000,Loss:1.1997756958007812
+epoch:62,Step:100,Accuracy:71.875%
+epoch:62,Step:200,Accuracy:65.625%
+epoch:62,Step:300,Accuracy:73.4375%
+epoch:62,Step:400,Accuracy:85.9375%
+epoch:62,Step:500,Accuracy:90.625%
+epoch:62,Step:600,Accuracy:65.625%
+
+ epoch:62,Accuracy:74.36749999999999%
+
+epoch:  63
+epoch:63,Step:500,Loss:1.3844608068466187
+epoch:63,Step:1000,Loss:1.133795142173767
+epoch:63,Step:1500,Loss:1.2498788833618164
+epoch:63,Step:2000,Loss:1.1255308389663696
+epoch:63,Step:2500,Loss:1.1757454872131348
+epoch:63,Step:3000,Loss:1.2324188947677612
+epoch:63,Step:100,Accuracy:75.0%
+epoch:63,Step:200,Accuracy:78.125%
+epoch:63,Step:300,Accuracy:75.0%
+epoch:63,Step:400,Accuracy:87.5%
+epoch:63,Step:500,Accuracy:70.3125%
+epoch:63,Step:600,Accuracy:76.5625%
+
+ epoch:63,Accuracy:75.035%
+
+epoch:  64
+epoch:64,Step:500,Loss:1.0154917240142822
+epoch:64,Step:1000,Loss:1.1988807916641235
+epoch:64,Step:1500,Loss:1.1894338130950928
+epoch:64,Step:2000,Loss:1.2579847574234009
+epoch:64,Step:2500,Loss:1.1413406133651733
+epoch:64,Step:3000,Loss:1.02129328250885
+epoch:64,Step:100,Accuracy:84.375%
+epoch:64,Step:200,Accuracy:76.5625%
+epoch:64,Step:300,Accuracy:76.5625%
+epoch:64,Step:400,Accuracy:81.25%
+epoch:64,Step:500,Accuracy:82.8125%
+epoch:64,Step:600,Accuracy:65.625%
+
+ epoch:64,Accuracy:75.1075%
+
+epoch:  65
+epoch:65,Step:500,Loss:1.115432620048523
+epoch:65,Step:1000,Loss:1.0938516855239868
+epoch:65,Step:1500,Loss:1.1667907238006592
+epoch:65,Step:2000,Loss:1.1110751628875732
+epoch:65,Step:2500,Loss:1.2735291719436646
+epoch:65,Step:3000,Loss:1.2448309659957886
+epoch:65,Step:100,Accuracy:73.4375%
+epoch:65,Step:200,Accuracy:65.625%
+epoch:65,Step:300,Accuracy:79.6875%
+epoch:65,Step:400,Accuracy:73.4375%
+epoch:65,Step:500,Accuracy:84.375%
+epoch:65,Step:600,Accuracy:76.5625%
+
+ epoch:65,Accuracy:75.7575%
+
+epoch:  66
+epoch:66,Step:500,Loss:1.0490286350250244
+epoch:66,Step:1000,Loss:1.2141926288604736
+epoch:66,Step:1500,Loss:1.1043826341629028
+epoch:66,Step:2000,Loss:1.1244500875473022
+epoch:66,Step:2500,Loss:1.1134934425354004
+epoch:66,Step:3000,Loss:1.0593316555023193
+epoch:66,Step:100,Accuracy:62.5%
+epoch:66,Step:200,Accuracy:93.75%
+epoch:66,Step:300,Accuracy:78.125%
+epoch:66,Step:400,Accuracy:89.0625%
+epoch:66,Step:500,Accuracy:73.4375%
+epoch:66,Step:600,Accuracy:87.5%
+
+ epoch:66,Accuracy:75.4425%
+
+epoch:  67
+epoch:67,Step:500,Loss:1.0305404663085938
+epoch:67,Step:1000,Loss:1.1569517850875854
+epoch:67,Step:1500,Loss:1.1843639612197876
+epoch:67,Step:2000,Loss:1.2227696180343628
+epoch:67,Step:2500,Loss:1.1960679292678833
+epoch:67,Step:3000,Loss:1.2071197032928467
+epoch:67,Step:100,Accuracy:81.25%
+epoch:67,Step:200,Accuracy:68.75%
+epoch:67,Step:300,Accuracy:73.4375%
+epoch:67,Step:400,Accuracy:68.75%
+epoch:67,Step:500,Accuracy:82.8125%
+epoch:67,Step:600,Accuracy:76.5625%
+
+ epoch:67,Accuracy:75.405%
+
+epoch:  68
+epoch:68,Step:500,Loss:1.106528878211975
+epoch:68,Step:1000,Loss:1.3101173639297485
+epoch:68,Step:1500,Loss:1.091199278831482
+epoch:68,Step:2000,Loss:1.087419867515564
+epoch:68,Step:2500,Loss:1.0682264566421509
+epoch:68,Step:3000,Loss:1.2082674503326416
+epoch:68,Step:100,Accuracy:79.6875%
+epoch:68,Step:200,Accuracy:78.125%
+epoch:68,Step:300,Accuracy:79.6875%
+epoch:68,Step:400,Accuracy:78.125%
+epoch:68,Step:500,Accuracy:78.125%
+epoch:68,Step:600,Accuracy:87.5%
+
+ epoch:68,Accuracy:77.045%
+
+epoch:  69
+epoch:69,Step:500,Loss:0.9778810739517212
+epoch:69,Step:1000,Loss:1.2270896434783936
+epoch:69,Step:1500,Loss:0.9724467396736145
+epoch:69,Step:2000,Loss:1.2485555410385132
+epoch:69,Step:2500,Loss:1.0175472497940063
+epoch:69,Step:3000,Loss:1.1112093925476074
+epoch:69,Step:100,Accuracy:84.375%
+epoch:69,Step:200,Accuracy:89.0625%
+epoch:69,Step:300,Accuracy:84.375%
+epoch:69,Step:400,Accuracy:82.8125%
+epoch:69,Step:500,Accuracy:84.375%
+epoch:69,Step:600,Accuracy:62.5%
+
+ epoch:69,Accuracy:76.9175%
+
+epoch:  70
+epoch:70,Step:500,Loss:1.1079996824264526
+epoch:70,Step:1000,Loss:1.0341527462005615
+epoch:70,Step:1500,Loss:1.0502592325210571
+epoch:70,Step:2000,Loss:1.4129765033721924
+epoch:70,Step:2500,Loss:1.0406471490859985
+epoch:70,Step:3000,Loss:1.1804656982421875
+epoch:70,Step:100,Accuracy:71.875%
+epoch:70,Step:200,Accuracy:82.8125%
+epoch:70,Step:300,Accuracy:81.25%
+epoch:70,Step:400,Accuracy:95.3125%
+epoch:70,Step:500,Accuracy:70.3125%
+epoch:70,Step:600,Accuracy:67.1875%
+
+ epoch:70,Accuracy:76.235%
+
+epoch:  71
+epoch:71,Step:500,Loss:1.1249806880950928
+epoch:71,Step:1000,Loss:1.2347570657730103
+epoch:71,Step:1500,Loss:1.1794519424438477
+epoch:71,Step:2000,Loss:1.1441066265106201
+epoch:71,Step:2500,Loss:1.261214256286621
+epoch:71,Step:3000,Loss:1.0006119012832642
+epoch:71,Step:100,Accuracy:85.9375%
+epoch:71,Step:200,Accuracy:73.4375%
+epoch:71,Step:300,Accuracy:79.6875%
+epoch:71,Step:400,Accuracy:73.4375%
+epoch:71,Step:500,Accuracy:79.6875%
+epoch:71,Step:600,Accuracy:64.0625%
+
+ epoch:71,Accuracy:77.2925%
+
+epoch:  72
+epoch:72,Step:500,Loss:1.03372323513031
+epoch:72,Step:1000,Loss:1.1670341491699219
+epoch:72,Step:1500,Loss:1.1221977472305298
+epoch:72,Step:2000,Loss:1.204105019569397
+epoch:72,Step:2500,Loss:0.9635099172592163
+epoch:72,Step:3000,Loss:1.0948632955551147
+epoch:72,Step:100,Accuracy:68.75%
+epoch:72,Step:200,Accuracy:76.5625%
+epoch:72,Step:300,Accuracy:71.875%
+epoch:72,Step:400,Accuracy:84.375%
+epoch:72,Step:500,Accuracy:81.25%
+epoch:72,Step:600,Accuracy:73.4375%
+
+ epoch:72,Accuracy:76.5525%
+
+epoch:  73
+epoch:73,Step:500,Loss:1.0256645679473877
+epoch:73,Step:1000,Loss:1.199135184288025
+epoch:73,Step:1500,Loss:1.175801157951355
+epoch:73,Step:2000,Loss:0.967460572719574
+epoch:73,Step:2500,Loss:1.062602162361145
+epoch:73,Step:3000,Loss:1.0057790279388428
+epoch:73,Step:100,Accuracy:79.6875%
+epoch:73,Step:200,Accuracy:68.75%
+epoch:73,Step:300,Accuracy:76.5625%
+epoch:73,Step:400,Accuracy:90.625%
+epoch:73,Step:500,Accuracy:79.6875%
+epoch:73,Step:600,Accuracy:67.1875%
+
+ epoch:73,Accuracy:76.4225%
+
+epoch:  74
+epoch:74,Step:500,Loss:1.0735975503921509
+epoch:74,Step:1000,Loss:1.0494475364685059
+epoch:74,Step:1500,Loss:1.0878849029541016
+epoch:74,Step:2000,Loss:1.121677041053772
+epoch:74,Step:2500,Loss:1.0887832641601562
+epoch:74,Step:3000,Loss:1.0432984828948975
+epoch:74,Step:100,Accuracy:73.4375%
+epoch:74,Step:200,Accuracy:87.5%
+epoch:74,Step:300,Accuracy:82.8125%
+epoch:74,Step:400,Accuracy:82.8125%
+epoch:74,Step:500,Accuracy:82.8125%
+epoch:74,Step:600,Accuracy:59.375%
+
+ epoch:74,Accuracy:77.17%
+
+epoch:  75
+epoch:75,Step:500,Loss:0.9662855863571167
+epoch:75,Step:1000,Loss:1.1916800737380981
+epoch:75,Step:1500,Loss:0.9940705299377441
+epoch:75,Step:2000,Loss:1.0925740003585815
+epoch:75,Step:2500,Loss:1.157181978225708
+epoch:75,Step:3000,Loss:1.0658141374588013
+epoch:75,Step:100,Accuracy:84.375%
+epoch:75,Step:200,Accuracy:70.3125%
+epoch:75,Step:300,Accuracy:82.8125%
+epoch:75,Step:400,Accuracy:81.25%
+epoch:75,Step:500,Accuracy:75.0%
+epoch:75,Step:600,Accuracy:67.1875%
+
+ epoch:75,Accuracy:77.92%
+
+epoch:  76
+epoch:76,Step:500,Loss:0.9193280935287476
+epoch:76,Step:1000,Loss:0.9050597548484802
+epoch:76,Step:1500,Loss:1.0158953666687012
+epoch:76,Step:2000,Loss:1.2008497714996338
+epoch:76,Step:2500,Loss:0.9222326278686523
+epoch:76,Step:3000,Loss:1.0044337511062622
+epoch:76,Step:100,Accuracy:84.375%
+epoch:76,Step:200,Accuracy:67.1875%
+epoch:76,Step:300,Accuracy:78.125%
+epoch:76,Step:400,Accuracy:85.9375%
+epoch:76,Step:500,Accuracy:93.75%
+epoch:76,Step:600,Accuracy:67.1875%
+
+ epoch:76,Accuracy:78.78%
+
+epoch:  77
+epoch:77,Step:500,Loss:1.1819807291030884
+epoch:77,Step:1000,Loss:1.1129592657089233
+epoch:77,Step:1500,Loss:0.9441664218902588
+epoch:77,Step:2000,Loss:1.0917012691497803
+epoch:77,Step:2500,Loss:0.976288914680481
+epoch:77,Step:3000,Loss:1.006484866142273
+epoch:77,Step:100,Accuracy:68.75%
+epoch:77,Step:200,Accuracy:78.125%
+epoch:77,Step:300,Accuracy:89.0625%
+epoch:77,Step:400,Accuracy:85.9375%
+epoch:77,Step:500,Accuracy:78.125%
+epoch:77,Step:600,Accuracy:73.4375%
+
+ epoch:77,Accuracy:77.21000000000001%
+
+epoch:  78
+epoch:78,Step:500,Loss:0.8850441575050354
+epoch:78,Step:1000,Loss:1.0473933219909668
+epoch:78,Step:1500,Loss:1.0516034364700317
+epoch:78,Step:2000,Loss:1.0255476236343384
+epoch:78,Step:2500,Loss:1.1532617807388306
+epoch:78,Step:3000,Loss:0.8638087511062622
+epoch:78,Step:100,Accuracy:57.8125%
+epoch:78,Step:200,Accuracy:67.1875%
+epoch:78,Step:300,Accuracy:84.375%
+epoch:78,Step:400,Accuracy:78.125%
+epoch:78,Step:500,Accuracy:78.125%
+epoch:78,Step:600,Accuracy:85.9375%
+
+ epoch:78,Accuracy:78.445%
+
+epoch:  79
+epoch:79,Step:500,Loss:0.9975095987319946
+epoch:79,Step:1000,Loss:1.1524170637130737
+epoch:79,Step:1500,Loss:0.9345960021018982
+epoch:79,Step:2000,Loss:1.0268115997314453
+epoch:79,Step:2500,Loss:0.9422063827514648
+epoch:79,Step:3000,Loss:1.0884766578674316
+epoch:79,Step:100,Accuracy:70.3125%
+epoch:79,Step:200,Accuracy:73.4375%
+epoch:79,Step:300,Accuracy:84.375%
+epoch:79,Step:400,Accuracy:70.3125%
+epoch:79,Step:500,Accuracy:85.9375%
+epoch:79,Step:600,Accuracy:82.8125%
+
+ epoch:79,Accuracy:79.02%
+
+epoch:  80
+epoch:80,Step:500,Loss:0.9962453246116638
+epoch:80,Step:1000,Loss:0.7976112961769104
+epoch:80,Step:1500,Loss:0.9789745807647705
+epoch:80,Step:2000,Loss:1.1577786207199097
+epoch:80,Step:2500,Loss:1.0734000205993652
+epoch:80,Step:3000,Loss:1.0993157625198364
+epoch:80,Step:100,Accuracy:79.6875%
+epoch:80,Step:200,Accuracy:82.8125%
+epoch:80,Step:300,Accuracy:76.5625%
+epoch:80,Step:400,Accuracy:81.25%
+epoch:80,Step:500,Accuracy:81.25%
+epoch:80,Step:600,Accuracy:81.25%
+
+ epoch:80,Accuracy:79.875%
+
+epoch:  81
+epoch:81,Step:500,Loss:0.9909255504608154
+epoch:81,Step:1000,Loss:0.9718424677848816
+epoch:81,Step:1500,Loss:1.0024114847183228
+epoch:81,Step:2000,Loss:0.9914671778678894
+epoch:81,Step:2500,Loss:1.047904133796692
+epoch:81,Step:3000,Loss:1.0161092281341553
+epoch:81,Step:100,Accuracy:92.1875%
+epoch:81,Step:200,Accuracy:76.5625%
+epoch:81,Step:300,Accuracy:82.8125%
+epoch:81,Step:400,Accuracy:82.8125%
+epoch:81,Step:500,Accuracy:82.8125%
+epoch:81,Step:600,Accuracy:76.5625%
+
+ epoch:81,Accuracy:79.4%
+
+epoch:  82
+epoch:82,Step:500,Loss:0.9668344855308533
+epoch:82,Step:1000,Loss:0.9228326678276062
+epoch:82,Step:1500,Loss:0.8260376453399658
+epoch:82,Step:2000,Loss:0.8326940536499023
+epoch:82,Step:2500,Loss:1.1620733737945557
+epoch:82,Step:3000,Loss:1.0022006034851074
+epoch:82,Step:100,Accuracy:85.9375%
+epoch:82,Step:200,Accuracy:76.5625%
+epoch:82,Step:300,Accuracy:87.5%
+epoch:82,Step:400,Accuracy:76.5625%
+epoch:82,Step:500,Accuracy:89.0625%
+epoch:82,Step:600,Accuracy:73.4375%
+
+ epoch:82,Accuracy:80.1925%
+
+epoch:  83
+epoch:83,Step:500,Loss:0.8619134426116943
+epoch:83,Step:1000,Loss:0.9587821364402771
+epoch:83,Step:1500,Loss:1.081536054611206
+epoch:83,Step:2000,Loss:1.1185023784637451
+epoch:83,Step:2500,Loss:0.9734283089637756
+epoch:83,Step:3000,Loss:0.883541464805603
+epoch:83,Step:100,Accuracy:76.5625%
+epoch:83,Step:200,Accuracy:76.5625%
+epoch:83,Step:300,Accuracy:76.5625%
+epoch:83,Step:400,Accuracy:84.375%
+epoch:83,Step:500,Accuracy:73.4375%
+epoch:83,Step:600,Accuracy:78.125%
+
+ epoch:83,Accuracy:80.22749999999999%
+
+epoch:  84
+epoch:84,Step:500,Loss:0.9156834483146667
+epoch:84,Step:1000,Loss:1.0058691501617432
+epoch:84,Step:1500,Loss:1.0293598175048828
+epoch:84,Step:2000,Loss:1.104343056678772
+epoch:84,Step:2500,Loss:0.9880458116531372
+epoch:84,Step:3000,Loss:0.9213588237762451
+epoch:84,Step:100,Accuracy:93.75%
+epoch:84,Step:200,Accuracy:92.1875%
+epoch:84,Step:300,Accuracy:87.5%
+epoch:84,Step:400,Accuracy:84.375%
+epoch:84,Step:500,Accuracy:85.9375%
+epoch:84,Step:600,Accuracy:85.9375%
+
+ epoch:84,Accuracy:80.89%
+
+epoch:  85
+epoch:85,Step:500,Loss:0.8513048887252808
+epoch:85,Step:1000,Loss:0.9510497450828552
+epoch:85,Step:1500,Loss:0.9607932567596436
+epoch:85,Step:2000,Loss:0.914334774017334
+epoch:85,Step:2500,Loss:0.9032962322235107
+epoch:85,Step:3000,Loss:1.005419373512268
+epoch:85,Step:100,Accuracy:71.875%
+epoch:85,Step:200,Accuracy:90.625%
+epoch:85,Step:300,Accuracy:92.1875%
+epoch:85,Step:400,Accuracy:79.6875%
+epoch:85,Step:500,Accuracy:89.0625%
+epoch:85,Step:600,Accuracy:82.8125%
+
+ epoch:85,Accuracy:80.595%
+
+epoch:  86
+epoch:86,Step:500,Loss:0.9541069269180298
+epoch:86,Step:1000,Loss:0.9439809322357178
+epoch:86,Step:1500,Loss:0.9454079866409302
+epoch:86,Step:2000,Loss:0.9303105473518372
+epoch:86,Step:2500,Loss:0.8985252976417542
+epoch:86,Step:3000,Loss:0.8568313717842102
+epoch:86,Step:100,Accuracy:81.25%
+epoch:86,Step:200,Accuracy:82.8125%
+epoch:86,Step:300,Accuracy:85.9375%
+epoch:86,Step:400,Accuracy:76.5625%
+epoch:86,Step:500,Accuracy:85.9375%
+epoch:86,Step:600,Accuracy:84.375%
+
+ epoch:86,Accuracy:80.87%
+
+epoch:  87
+epoch:87,Step:500,Loss:0.7493227124214172
+epoch:87,Step:1000,Loss:0.9634714722633362
+epoch:87,Step:1500,Loss:1.079095721244812
+epoch:87,Step:2000,Loss:0.9382933378219604
+epoch:87,Step:2500,Loss:0.889168918132782
+epoch:87,Step:3000,Loss:0.8598160743713379
+epoch:87,Step:100,Accuracy:75.0%
+epoch:87,Step:200,Accuracy:84.375%
+epoch:87,Step:300,Accuracy:81.25%
+epoch:87,Step:400,Accuracy:89.0625%
+epoch:87,Step:500,Accuracy:79.6875%
+epoch:87,Step:600,Accuracy:68.75%
+
+ epoch:87,Accuracy:80.9875%
+
+epoch:  88
+epoch:88,Step:500,Loss:0.8268046379089355
+epoch:88,Step:1000,Loss:0.8799924254417419
+epoch:88,Step:1500,Loss:0.7780762314796448
+epoch:88,Step:2000,Loss:0.8555307984352112
+epoch:88,Step:2500,Loss:0.7926141023635864
+epoch:88,Step:3000,Loss:0.8182438611984253
+epoch:88,Step:100,Accuracy:84.375%
+epoch:88,Step:200,Accuracy:79.6875%
+epoch:88,Step:300,Accuracy:76.5625%
+epoch:88,Step:400,Accuracy:81.25%
+epoch:88,Step:500,Accuracy:75.0%
+epoch:88,Step:600,Accuracy:70.3125%
+
+ epoch:88,Accuracy:78.49249999999999%
+
+epoch:  89
+epoch:89,Step:500,Loss:0.8584204316139221
+epoch:89,Step:1000,Loss:0.873556911945343
+epoch:89,Step:1500,Loss:0.8353119492530823
+epoch:89,Step:2000,Loss:0.9159390926361084
+epoch:89,Step:2500,Loss:0.864866316318512
+epoch:89,Step:3000,Loss:0.820855438709259
+epoch:89,Step:100,Accuracy:75.0%
+epoch:89,Step:200,Accuracy:84.375%
+epoch:89,Step:300,Accuracy:60.9375%
+epoch:89,Step:400,Accuracy:82.8125%
+epoch:89,Step:500,Accuracy:75.0%
+epoch:89,Step:600,Accuracy:82.8125%
+
+ epoch:89,Accuracy:81.9375%
+
+epoch:  90
+epoch:90,Step:500,Loss:0.7525190711021423
+epoch:90,Step:1000,Loss:0.9360120296478271
+epoch:90,Step:1500,Loss:0.9624311923980713
+epoch:90,Step:2000,Loss:0.8033839464187622
+epoch:90,Step:2500,Loss:0.9227698445320129
+epoch:90,Step:3000,Loss:0.953691303730011
+epoch:90,Step:100,Accuracy:73.4375%
+epoch:90,Step:200,Accuracy:87.5%
+epoch:90,Step:300,Accuracy:70.3125%
+epoch:90,Step:400,Accuracy:84.375%
+epoch:90,Step:500,Accuracy:67.1875%
+epoch:90,Step:600,Accuracy:87.5%
+
+ epoch:90,Accuracy:81.2975%
+
+epoch:  91
+epoch:91,Step:500,Loss:0.8456125259399414
+epoch:91,Step:1000,Loss:0.9189924597740173
+epoch:91,Step:1500,Loss:0.8193286657333374
+epoch:91,Step:2000,Loss:0.9600816965103149
+epoch:91,Step:2500,Loss:0.8664266467094421
+epoch:91,Step:3000,Loss:0.8903879523277283
+epoch:91,Step:100,Accuracy:90.625%
+epoch:91,Step:200,Accuracy:82.8125%
+epoch:91,Step:300,Accuracy:84.375%
+epoch:91,Step:400,Accuracy:89.0625%
+epoch:91,Step:500,Accuracy:85.9375%
+epoch:91,Step:600,Accuracy:87.5%
+
+ epoch:91,Accuracy:82.8475%
+
+epoch:  92
+epoch:92,Step:500,Loss:0.8973007202148438
+epoch:92,Step:1000,Loss:0.9203137755393982
+epoch:92,Step:1500,Loss:0.9427374005317688
+epoch:92,Step:2000,Loss:0.971883237361908
+epoch:92,Step:2500,Loss:0.8365336060523987
+epoch:92,Step:3000,Loss:0.8599393367767334
+epoch:92,Step:100,Accuracy:89.0625%
+epoch:92,Step:200,Accuracy:73.4375%
+epoch:92,Step:300,Accuracy:85.9375%
+epoch:92,Step:400,Accuracy:84.375%
+epoch:92,Step:500,Accuracy:81.25%
+epoch:92,Step:600,Accuracy:82.8125%
+
+ epoch:92,Accuracy:82.17%
+
+epoch:  93
+epoch:93,Step:500,Loss:0.8332640528678894
+epoch:93,Step:1000,Loss:1.0189357995986938
+epoch:93,Step:1500,Loss:0.9047911167144775
+epoch:93,Step:2000,Loss:0.8718385100364685
+epoch:93,Step:2500,Loss:0.7878329157829285
+epoch:93,Step:3000,Loss:0.7494153380393982
+epoch:93,Step:100,Accuracy:81.25%
+epoch:93,Step:200,Accuracy:89.0625%
+epoch:93,Step:300,Accuracy:92.1875%
+epoch:93,Step:400,Accuracy:81.25%
+epoch:93,Step:500,Accuracy:95.3125%
+epoch:93,Step:600,Accuracy:78.125%
+
+ epoch:93,Accuracy:83.6275%
+
+epoch:  94
+epoch:94,Step:500,Loss:0.8269040584564209
+epoch:94,Step:1000,Loss:0.7092223167419434
+epoch:94,Step:1500,Loss:0.9026699066162109
+epoch:94,Step:2000,Loss:0.8843876123428345
+epoch:94,Step:2500,Loss:0.7309737205505371
+epoch:94,Step:3000,Loss:1.0131447315216064
+epoch:94,Step:100,Accuracy:76.5625%
+epoch:94,Step:200,Accuracy:81.25%
+epoch:94,Step:300,Accuracy:89.0625%
+epoch:94,Step:400,Accuracy:68.75%
+epoch:94,Step:500,Accuracy:87.5%
+epoch:94,Step:600,Accuracy:70.3125%
+
+ epoch:94,Accuracy:83.2525%
+
+epoch:  95
+epoch:95,Step:500,Loss:0.8038646578788757
+epoch:95,Step:1000,Loss:0.8149751424789429
+epoch:95,Step:1500,Loss:0.8426170945167542
+epoch:95,Step:2000,Loss:0.819804310798645
+epoch:95,Step:2500,Loss:0.7198276519775391
+epoch:95,Step:3000,Loss:0.6945213675498962
+epoch:95,Step:100,Accuracy:79.6875%
+epoch:95,Step:200,Accuracy:79.6875%
+epoch:95,Step:300,Accuracy:78.125%
+epoch:95,Step:400,Accuracy:89.0625%
+epoch:95,Step:500,Accuracy:87.5%
+epoch:95,Step:600,Accuracy:73.4375%
+
+ epoch:95,Accuracy:82.52000000000001%
+
+epoch:  96
+epoch:96,Step:500,Loss:0.7449252605438232
+epoch:96,Step:1000,Loss:0.8789156079292297
+epoch:96,Step:1500,Loss:0.8032769560813904
+epoch:96,Step:2000,Loss:0.9905824065208435
+epoch:96,Step:2500,Loss:0.7731950879096985
+epoch:96,Step:3000,Loss:0.7200210094451904
+epoch:96,Step:100,Accuracy:79.6875%
+epoch:96,Step:200,Accuracy:81.25%
+epoch:96,Step:300,Accuracy:93.75%
+epoch:96,Step:400,Accuracy:87.5%
+epoch:96,Step:500,Accuracy:75.0%
+epoch:96,Step:600,Accuracy:85.9375%
+
+ epoch:96,Accuracy:82.695%
+
+epoch:  97
+epoch:97,Step:500,Loss:0.6872929334640503
+epoch:97,Step:1000,Loss:0.815836489200592
+epoch:97,Step:1500,Loss:0.8349337577819824
+epoch:97,Step:2000,Loss:0.8123695850372314
+epoch:97,Step:2500,Loss:0.947760820388794
+epoch:97,Step:3000,Loss:0.7754138112068176
+epoch:97,Step:100,Accuracy:82.8125%
+epoch:97,Step:200,Accuracy:93.75%
+epoch:97,Step:300,Accuracy:81.25%
+epoch:97,Step:400,Accuracy:82.8125%
+epoch:97,Step:500,Accuracy:85.9375%
+epoch:97,Step:600,Accuracy:93.75%
+
+ epoch:97,Accuracy:83.67999999999999%
+
+epoch:  98
+epoch:98,Step:500,Loss:0.7088087797164917
+epoch:98,Step:1000,Loss:0.7750835418701172
+epoch:98,Step:1500,Loss:0.846442461013794
+epoch:98,Step:2000,Loss:0.965319812297821
+epoch:98,Step:2500,Loss:0.8868321776390076
+epoch:98,Step:3000,Loss:0.8300464749336243
+epoch:98,Step:100,Accuracy:78.125%
+epoch:98,Step:200,Accuracy:85.9375%
+epoch:98,Step:300,Accuracy:89.0625%
+epoch:98,Step:400,Accuracy:96.875%
+epoch:98,Step:500,Accuracy:90.625%
+epoch:98,Step:600,Accuracy:87.5%
+
+ epoch:98,Accuracy:84.74249999999999%
+
+epoch:  99
+epoch:99,Step:500,Loss:0.8631347417831421
+epoch:99,Step:1000,Loss:0.8547860383987427
+epoch:99,Step:1500,Loss:0.6968128681182861
+epoch:99,Step:2000,Loss:0.6946377754211426
+epoch:99,Step:2500,Loss:0.7507264018058777
+epoch:99,Step:3000,Loss:0.6699924468994141
+epoch:99,Step:100,Accuracy:89.0625%
+epoch:99,Step:200,Accuracy:78.125%
+epoch:99,Step:300,Accuracy:82.8125%
+epoch:99,Step:400,Accuracy:82.8125%
+epoch:99,Step:500,Accuracy:87.5%
+epoch:99,Step:600,Accuracy:84.375%
+
+ epoch:99,Accuracy:84.2975%
+
+epoch:  100
+epoch:100,Step:500,Loss:0.8089234232902527
+epoch:100,Step:1000,Loss:0.9220643639564514
+epoch:100,Step:1500,Loss:0.6772241592407227
+epoch:100,Step:2000,Loss:0.9490756392478943
+epoch:100,Step:2500,Loss:0.8833193778991699
+epoch:100,Step:3000,Loss:0.7171071767807007
+epoch:100,Step:100,Accuracy:85.9375%
+epoch:100,Step:200,Accuracy:92.1875%
+epoch:100,Step:300,Accuracy:100.0%
+epoch:100,Step:400,Accuracy:81.25%
+epoch:100,Step:500,Accuracy:82.8125%
+epoch:100,Step:600,Accuracy:75.0%
+
+ epoch:100,Accuracy:84.3925%
+
+epoch:  101
+epoch:101,Step:500,Loss:0.7108680009841919
+epoch:101,Step:1000,Loss:0.8379808664321899
+epoch:101,Step:1500,Loss:0.6999235153198242
+epoch:101,Step:2000,Loss:0.7608649134635925
+epoch:101,Step:2500,Loss:0.6274776458740234
+epoch:101,Step:3000,Loss:0.7093202471733093
+epoch:101,Step:100,Accuracy:92.1875%
+epoch:101,Step:200,Accuracy:85.9375%
+epoch:101,Step:300,Accuracy:96.875%
+epoch:101,Step:400,Accuracy:100.0%
+epoch:101,Step:500,Accuracy:73.4375%
+epoch:101,Step:600,Accuracy:71.875%
+
+ epoch:101,Accuracy:85.1975%
+
+epoch:  102
+epoch:102,Step:500,Loss:0.7098858952522278
+epoch:102,Step:1000,Loss:0.8566522598266602
+epoch:102,Step:1500,Loss:0.706468939781189
+epoch:102,Step:2000,Loss:0.8956374526023865
+epoch:102,Step:2500,Loss:0.8037429451942444
+epoch:102,Step:3000,Loss:0.803354024887085
+epoch:102,Step:100,Accuracy:82.8125%
+epoch:102,Step:200,Accuracy:81.25%
+epoch:102,Step:300,Accuracy:76.5625%
+epoch:102,Step:400,Accuracy:82.8125%
+epoch:102,Step:500,Accuracy:87.5%
+epoch:102,Step:600,Accuracy:78.125%
+
+ epoch:102,Accuracy:85.7525%
+
+epoch:  103
+epoch:103,Step:500,Loss:0.6559921503067017
+epoch:103,Step:1000,Loss:0.9479371309280396
+epoch:103,Step:1500,Loss:0.8613288998603821
+epoch:103,Step:2000,Loss:0.7841613292694092
+epoch:103,Step:2500,Loss:0.9243384599685669
+epoch:103,Step:3000,Loss:0.7529851198196411
+epoch:103,Step:100,Accuracy:82.8125%
+epoch:103,Step:200,Accuracy:71.875%
+epoch:103,Step:300,Accuracy:81.25%
+epoch:103,Step:400,Accuracy:87.5%
+epoch:103,Step:500,Accuracy:81.25%
+epoch:103,Step:600,Accuracy:84.375%
+
+ epoch:103,Accuracy:85.1825%
+
+epoch:  104
+epoch:104,Step:500,Loss:0.7955425381660461
+epoch:104,Step:1000,Loss:0.7215260863304138
+epoch:104,Step:1500,Loss:0.8051949143409729
+epoch:104,Step:2000,Loss:0.983483612537384
+epoch:104,Step:2500,Loss:0.7832488417625427
+epoch:104,Step:3000,Loss:0.6585076451301575
+epoch:104,Step:100,Accuracy:93.75%
+epoch:104,Step:200,Accuracy:84.375%
+epoch:104,Step:300,Accuracy:82.8125%
+epoch:104,Step:400,Accuracy:79.6875%
+epoch:104,Step:500,Accuracy:76.5625%
+epoch:104,Step:600,Accuracy:92.1875%
+
+ epoch:104,Accuracy:85.965%
+
+epoch:  105
+epoch:105,Step:500,Loss:0.6830252408981323
+epoch:105,Step:1000,Loss:0.7926362752914429
+epoch:105,Step:1500,Loss:0.6767323613166809
+epoch:105,Step:2000,Loss:0.7181667685508728
+epoch:105,Step:2500,Loss:0.7971651554107666
+epoch:105,Step:3000,Loss:0.6606535315513611
+epoch:105,Step:100,Accuracy:87.5%
+epoch:105,Step:200,Accuracy:89.0625%
+epoch:105,Step:300,Accuracy:71.875%
+epoch:105,Step:400,Accuracy:84.375%
+epoch:105,Step:500,Accuracy:90.625%
+epoch:105,Step:600,Accuracy:78.125%
+
+ epoch:105,Accuracy:85.8775%
+
+epoch:  106
+epoch:106,Step:500,Loss:0.8077703714370728
+epoch:106,Step:1000,Loss:0.6844603419303894
+epoch:106,Step:1500,Loss:0.7194927334785461
+epoch:106,Step:2000,Loss:0.7379977703094482
+epoch:106,Step:2500,Loss:0.6545462012290955
+epoch:106,Step:3000,Loss:0.7110297679901123
+epoch:106,Step:100,Accuracy:78.125%
+epoch:106,Step:200,Accuracy:81.25%
+epoch:106,Step:300,Accuracy:84.375%
+epoch:106,Step:400,Accuracy:84.375%
+epoch:106,Step:500,Accuracy:78.125%
+epoch:106,Step:600,Accuracy:96.875%
+
+ epoch:106,Accuracy:85.91499999999999%
+
+epoch:  107
+epoch:107,Step:500,Loss:0.7970823049545288
+epoch:107,Step:1000,Loss:0.7093261480331421
+epoch:107,Step:1500,Loss:0.7491860389709473
+epoch:107,Step:2000,Loss:0.8953105211257935
+epoch:107,Step:2500,Loss:0.7669932246208191
+epoch:107,Step:3000,Loss:0.7270171046257019
+epoch:107,Step:100,Accuracy:81.25%
+epoch:107,Step:200,Accuracy:90.625%
+epoch:107,Step:300,Accuracy:81.25%
+epoch:107,Step:400,Accuracy:93.75%
+epoch:107,Step:500,Accuracy:85.9375%
+epoch:107,Step:600,Accuracy:75.0%
+
+ epoch:107,Accuracy:86.8325%
+
+epoch:  108
+epoch:108,Step:500,Loss:0.6061679124832153
+epoch:108,Step:1000,Loss:0.7316818833351135
+epoch:108,Step:1500,Loss:0.6555542945861816
+epoch:108,Step:2000,Loss:0.7911333441734314
+epoch:108,Step:2500,Loss:0.7523417472839355
+epoch:108,Step:3000,Loss:0.774165689945221
+epoch:108,Step:100,Accuracy:81.25%
+epoch:108,Step:200,Accuracy:78.125%
+epoch:108,Step:300,Accuracy:89.0625%
+epoch:108,Step:400,Accuracy:87.5%
+epoch:108,Step:500,Accuracy:82.8125%
+epoch:108,Step:600,Accuracy:89.0625%
+
+ epoch:108,Accuracy:86.52499999999999%
+
+epoch:  109
+epoch:109,Step:500,Loss:0.8177644610404968
+epoch:109,Step:1000,Loss:0.826566755771637
+epoch:109,Step:1500,Loss:0.7561990022659302
+epoch:109,Step:2000,Loss:0.751589298248291
+epoch:109,Step:2500,Loss:0.6921505331993103
+epoch:109,Step:3000,Loss:0.6988634467124939
+epoch:109,Step:100,Accuracy:67.1875%
+epoch:109,Step:200,Accuracy:84.375%
+epoch:109,Step:300,Accuracy:81.25%
+epoch:109,Step:400,Accuracy:93.75%
+epoch:109,Step:500,Accuracy:84.375%
+epoch:109,Step:600,Accuracy:92.1875%
+
+ epoch:109,Accuracy:85.8475%
+
+epoch:  110
+epoch:110,Step:500,Loss:0.671572208404541
+epoch:110,Step:1000,Loss:0.711115300655365
+epoch:110,Step:1500,Loss:0.6694474220275879
+epoch:110,Step:2000,Loss:0.6876018643379211
+epoch:110,Step:2500,Loss:0.7022126317024231
+epoch:110,Step:3000,Loss:0.661169171333313
+epoch:110,Step:100,Accuracy:95.3125%
+epoch:110,Step:200,Accuracy:84.375%
+epoch:110,Step:300,Accuracy:93.75%
+epoch:110,Step:400,Accuracy:76.5625%
+epoch:110,Step:500,Accuracy:85.9375%
+epoch:110,Step:600,Accuracy:84.375%
+
+ epoch:110,Accuracy:86.9875%
+
+epoch:  111
+epoch:111,Step:500,Loss:0.50029456615448
+epoch:111,Step:1000,Loss:0.6120525002479553
+epoch:111,Step:1500,Loss:0.798147439956665
+epoch:111,Step:2000,Loss:0.6566978096961975
+epoch:111,Step:2500,Loss:0.5541685819625854
+epoch:111,Step:3000,Loss:0.639604389667511
+epoch:111,Step:100,Accuracy:90.625%
+epoch:111,Step:200,Accuracy:90.625%
+epoch:111,Step:300,Accuracy:87.5%
+epoch:111,Step:400,Accuracy:90.625%
+epoch:111,Step:500,Accuracy:90.625%
+epoch:111,Step:600,Accuracy:87.5%
+
+ epoch:111,Accuracy:87.1925%
+
+epoch:  112
+
+epoch:  112
+epoch:112,Step:500,Loss:0.5855651497840881
+epoch:112,Step:1000,Loss:0.6659173369407654
+epoch:112,Step:1500,Loss:0.8145212531089783
+epoch:112,Step:2000,Loss:0.6041995286941528
+epoch:112,Step:2500,Loss:0.738766610622406
+epoch:112,Step:3000,Loss:0.6983291506767273
+epoch:112,Step:100,Accuracy:85.9375%
+epoch:112,Step:200,Accuracy:92.1875%
+epoch:112,Step:300,Accuracy:81.25%
+epoch:112,Step:400,Accuracy:90.625%
+epoch:112,Step:500,Accuracy:89.0625%
+epoch:112,Step:600,Accuracy:87.5%
+
+ epoch:112,Accuracy:87.81750000000001%
+
+epoch:  113
+epoch:113,Step:500,Loss:0.5738334655761719
+epoch:113,Step:1000,Loss:0.5672191381454468
+epoch:113,Step:1500,Loss:0.7618580460548401
+epoch:113,Step:2000,Loss:0.6823477149009705
+epoch:113,Step:2500,Loss:0.6056289076805115
+epoch:113,Step:3000,Loss:0.7621007561683655
+epoch:113,Step:100,Accuracy:89.0625%
+epoch:113,Step:200,Accuracy:78.125%
+epoch:113,Step:300,Accuracy:96.875%
+epoch:113,Step:400,Accuracy:82.8125%
+epoch:113,Step:500,Accuracy:96.875%
+epoch:113,Step:600,Accuracy:90.625%
+
+ epoch:113,Accuracy:87.7725%
+
+epoch:  114
+epoch:114,Step:500,Loss:0.7017649412155151
+epoch:114,Step:1000,Loss:0.6754912734031677
+epoch:114,Step:1500,Loss:0.5528790354728699
+epoch:114,Step:2000,Loss:0.5588549971580505
+epoch:114,Step:2500,Loss:0.5594832301139832
+epoch:114,Step:3000,Loss:0.6903632879257202
+epoch:114,Step:100,Accuracy:93.75%
+epoch:114,Step:200,Accuracy:84.375%
+epoch:114,Step:300,Accuracy:92.1875%
+epoch:114,Step:400,Accuracy:92.1875%
+epoch:114,Step:500,Accuracy:84.375%
+epoch:114,Step:600,Accuracy:85.9375%
+
+ epoch:114,Accuracy:87.78%
+
+epoch:  115
+epoch:115,Step:500,Loss:0.6372029185295105
+epoch:115,Step:1000,Loss:0.6966206431388855
+epoch:115,Step:1500,Loss:0.6858041882514954
+epoch:115,Step:2000,Loss:0.6927586793899536
+epoch:115,Step:2500,Loss:0.5709210634231567
+epoch:115,Step:3000,Loss:0.6399590969085693
+epoch:115,Step:100,Accuracy:85.9375%
+epoch:115,Step:200,Accuracy:79.6875%
+epoch:115,Step:300,Accuracy:85.9375%
+epoch:115,Step:400,Accuracy:90.625%
+epoch:115,Step:500,Accuracy:81.25%
+epoch:115,Step:600,Accuracy:93.75%
+
+ epoch:115,Accuracy:87.81750000000001%
+
+
+
